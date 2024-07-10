@@ -14,7 +14,10 @@ Data Integration: Fetch and display data from a MongoDB database using a Node.js
 - React: Frontend framework rendering the dynamic and user-friendly interface.
 - Node.js: Runtime environment for server-side scripting.
 - Chart.js: Library for creating interactive and visually appealing charts.
- 
+
+![Screenshot 2024-07-10 232530](https://github.com/sarvadnyaJawale/Innovative-Data-Visualization-Dashboard/assets/127713222/6156d62a-9d51-4f12-83f5-f3a3c4ff920f)
+
+
 ## Installation
 To get started with the BlackCoffer Visualization Dashboard, follow these steps:
 

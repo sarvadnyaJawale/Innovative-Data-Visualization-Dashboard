@@ -15,55 +15,51 @@ Data Integration: Fetch and display data from a MongoDB database using a Node.js
 - Node.js: Runtime environment for server-side scripting.
 - Chart.js: Library for creating interactive and visually appealing charts.
 
-![Screenshot 2024-07-10 232530](https://github.com/sarvadnyaJawale/Innovative-Data-Visualization-Dashboard/assets/127713222/6156d62a-9d51-4f12-83f5-f3a3c4ff920f)
+![Screenshot 2024-07-10 232345](https://github.com/sarvadnyaJawale/Innovative-Data-Visualization-Dashboard/assets/127713222/a6c93bfb-3976-4d1b-8498-93efe8f8d27e)
+![Screenshot 2024-07-10 232509](https://github.com/sarvadnyaJawale/Innovative-Data-Visualization-Dashboard/assets/127713222/92b5843b-1d7a-4b83-9ee0-46aca2b9fc07)
+![Screenshot 2024-07-10 232555](https://github.com/sarvadnyaJawale/Innovative-Data-Visualization-Dashboard/assets/127713222/b6ed4660-686c-4319-9876-0cadd6cb9923)
+![Screenshot 2024-07-10 232530](https://github.com/sarvadnyaJawale/Innovative-Data-Visualization-Dashboard/assets/127713222/7bacf81e-beb4-41b0-8876-12c0206067eb)
+
+
+
+
+
 
 
 ## Installation
 To get started with the BlackCoffer Visualization Dashboard, follow these steps:
 
 1. Clone the repository:
+'git clone https://github.com/sarvadnyaJawale/Innovative-Data-Visualization-Dashboard.git'
 
-bash
-Copy code
-git clone https://github.com/RiteshKumarShukla/BlackCoffer-Visualization-Dashboard.git
-
-2. Navigate to the project directory:
-
-bash
-Copy code
+3. Navigate to the project directory:
+'''
 cd BlackCoffer-Visualization-Dashboard
-
+'''
 3. Install dependencies:
 
 - For the backend:
-
-bash
-Copy code
+'''
 cd server
 npm install
-
+'''
 - For the frontend:
-
-bash
-Copy code
+'''
 cd ../client
 npm install
-Run the application:
+'''
+### Run the application:
 
 4. Start the backend server:
-
-bash
-Copy code
+'''
 cd ../server
 npm start
-
+'''
 5. Start the frontend application:
-
-bash
-Copy code
+'''
 cd ../client
 npm start
-
+'''
 6. Access the dashboard:
 
 Open your browser and navigate to http://localhost:3000.
